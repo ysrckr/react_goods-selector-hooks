@@ -1,4 +1,4 @@
-# React Goods Selector
+# React Goods Selector (Hooks)
 
 > [React + Typescript cheat sheet](https://mate-academy.github.io/fe-program/js/extra/react-typescript)
 
@@ -6,6 +6,7 @@ You are given an array of goods. Render them in a table with the ability to sele
 
 > Here is [the working version](https://mate-academy.github.io/react_goods-selector)
 
+1. Use React Hooks (HOT class components)
 1. Write everything inside the `App` (**don't** create additional components).
 1. Save a `selectedGood` in the state (`Jam` is the default value).
 1. Show the name of the selected good in the `h1.title` (`Jam is selected`).
