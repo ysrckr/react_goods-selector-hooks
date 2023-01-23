@@ -45,7 +45,6 @@ export const App: React.FC = () => {
               className={cn({
                 'has-background-success-light': good === selectedGood,
               })}
-              onClick={() => setSelectedGood(good)}
             >
               <td>
                 {good === selectedGood ? (
